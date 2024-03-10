@@ -1,2 +1,3 @@
-# IRIS-ASSIGNMENT-DPLYR
-Learnbay R script project
+# BloomDataHub_insightR
+Learnbay R script project using IrisInsights
+DPLYR AND GG PLOT
